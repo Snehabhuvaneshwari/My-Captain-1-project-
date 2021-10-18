@@ -1,0 +1,7 @@
+# My-Captain-1-project-
+#Task
+import math
+radius = float(input("enter the radius of the circle: "))
+A = maths.pi * radius *radius
+print("the area of circle:",A)
+
