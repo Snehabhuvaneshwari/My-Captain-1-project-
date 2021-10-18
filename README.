@@ -1,7 +1,12 @@
 # My-Captain-1-project-
-#Task
+
+#TASK_2
 import math
 radius = float(input("enter the radius of the circle: "))
 A = maths.pi * radius *radius
 print("the area of circle:",A)
 
+#TASK_2
+filename = input("enter the filename: ")
+file_exten = filename.split(".")
+print("extension of file is: " + repr(file_exten[-1]))
